@@ -1,0 +1,17 @@
+C:\Users\Kirill\Documents\Visual Studio 2017\Projects\TestPlugin\TestMod\bin\Debug\TestMod.dll
+C:\Users\Kirill\Documents\Visual Studio 2017\Projects\TestPlugin\TestMod\bin\Debug\TestMod.pdb
+C:\Users\Kirill\Documents\Visual Studio 2017\Projects\TestPlugin\TestMod\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Kirill\Documents\Visual Studio 2017\Projects\TestPlugin\TestMod\bin\Debug\Assembly-CSharp.dll
+C:\Users\Kirill\Documents\Visual Studio 2017\Projects\TestPlugin\TestMod\bin\Debug\UnityEngine.dll
+C:\Users\Kirill\Documents\Visual Studio 2017\Projects\TestPlugin\TestMod\bin\Debug\Pathfinding.JsonFx.dll
+C:\Users\Kirill\Documents\Visual Studio 2017\Projects\TestPlugin\TestMod\bin\Debug\Pathfinding.Ionic.Zip.Reduced.dll
+C:\Users\Kirill\Documents\Visual Studio 2017\Projects\TestPlugin\TestMod\bin\Debug\Pathfinding.ClipperLib.dll
+C:\Users\Kirill\Documents\Visual Studio 2017\Projects\TestPlugin\TestMod\bin\Debug\UnityEngine.UI.dll
+C:\Users\Kirill\Documents\Visual Studio 2017\Projects\TestPlugin\TestMod\bin\Debug\Pathfinding.Poly2Tri.dll
+C:\Users\Kirill\Documents\Visual Studio 2017\Projects\TestPlugin\TestMod\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kirill\Documents\Visual Studio 2017\Projects\TestPlugin\TestMod\bin\Debug\UnityEngine.CrashLog.dll
+C:\Users\Kirill\Documents\Visual Studio 2017\Projects\TestPlugin\TestMod\obj\Debug\TestMod.csprojAssemblyReference.cache
+C:\Users\Kirill\Documents\Visual Studio 2017\Projects\TestPlugin\TestMod\obj\Debug\TestMod.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Documents\Visual Studio 2017\Projects\TestPlugin\TestMod\obj\Debug\TestMod.csproj.CopyComplete
+C:\Users\Kirill\Documents\Visual Studio 2017\Projects\TestPlugin\TestMod\obj\Debug\TestMod.dll
+C:\Users\Kirill\Documents\Visual Studio 2017\Projects\TestPlugin\TestMod\obj\Debug\TestMod.pdb
